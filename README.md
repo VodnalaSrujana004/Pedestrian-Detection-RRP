@@ -1,5 +1,3 @@
-# Pedestrian-Detection-RRP
-
 ## Pedestrian Detection Project 🚶‍♂️
 ## Batch No: 17
 
