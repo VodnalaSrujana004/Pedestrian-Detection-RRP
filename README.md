@@ -1,10 +1,7 @@
 ## Pedestrian Detection Project 🚶‍♂️
-## Batch No: 17
 
 ## Contributors
-V. Srujana (22JJ1A0563)
-Ch. Vyshnavi (22JJ1A0517)
-T. Sai Ruthwik (22JJ1A0559)
+Myself
 
 ### 📝 Abstract
 #### Objective:
