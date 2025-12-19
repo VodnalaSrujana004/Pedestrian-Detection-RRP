@@ -1,7 +1,7 @@
 ## Pedestrian Detection Project 🚶‍♂️
 
 ## Contributors
-Myself
+Myself, Vyshnavi, Sai Ruthvik
 
 ### 📝 Abstract
 #### Objective:
